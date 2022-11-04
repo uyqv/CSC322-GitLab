@@ -1,1 +1,1 @@
-"Hello Very Happy World!"
+"Hello Crazy World!"
